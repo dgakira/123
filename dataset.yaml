@@ -1,0 +1,13 @@
+path: D:\dataset
+train: D:\dataset\dataset
+val: D:\dataset\daset-196-2-color
+test: D:\dataset\daset-195-2-color
+
+# 类别
+names:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
